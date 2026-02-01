@@ -3,4 +3,6 @@ Welcome to my Computer Science repository. Here you can find links to my project
 
 # Projects
 View my CS projects here:
-![My CS projects](https://github.com/Salade10/Projects/tree/main/ComputerScience) 
+![My CS projects](https://github.com/Salade10/Projects/tree/main/ComputerScience)
+
+# My CS Journey
