@@ -1,2 +1,4 @@
 # ComputerScience
-Here you can learn about my Computer Science journey and my skills within the subject.
+Welcome to my Computer Science repository. Here you can find links to my projects and learn all about my CS journey. 
+
+# Projects
